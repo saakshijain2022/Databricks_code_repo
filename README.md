@@ -1,6 +1,6 @@
 # Databricks_code_repo
 
-
+Create Resource Group,  Azure Data Factory, Azure Storage Account, keyVault  and  Azure DataBricks
 
 ![image](https://github.com/saakshijain2022/Databricks_code_repo/assets/110716472/885f2930-f60c-4999-8b18-3ad2ec39891c)
 
